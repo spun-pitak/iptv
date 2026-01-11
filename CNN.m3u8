@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776015&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
