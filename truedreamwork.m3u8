@@ -1,5 +1,4 @@
 #EXT-X-VERSION:3
-# High Quality Stream (2.1 Mbps)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://love.pifipa2974.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
 #EXTM3U
